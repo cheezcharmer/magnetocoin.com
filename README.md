@@ -2,7 +2,7 @@
 
 Magnetocoin.com, for shibes and people everywhere.
 
-![DogeCoin](http://static.tumblr.com/ppdj5y9/Ae9mxmxtp/300coin.png)
+![mgtCoin](http://static.tumblr.com/ppdj5y9/Ae9mxmxtp/300coin.png)
 
 ## What is this?
 It's the Magnetocoin.com homepage. Made so everyone, even the nontechnical, can use Magnetocoin.
