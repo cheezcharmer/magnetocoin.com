@@ -1,6 +1,6 @@
 # Magnetocoin.com
 
-Magnetocoin.com, for shibes and people everywhere.
+Magnetocoin.com, for mutants and people everywhere.
 
 ![mgtCoin](http://static.tumblr.com/ppdj5y9/Ae9mxmxtp/300coin.png)
 
